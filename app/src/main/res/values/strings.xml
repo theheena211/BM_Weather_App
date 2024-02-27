@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="temperature_scale">\u2103</string>
+    <string name="temperature">Temperature: </string>
+    <string name="precipitation">Precipitation:</string>
+    <string name="humidity">Humidity: </string>
+    <string name="wind">Wind: </string>
+    <string name="percentage">%</string>
+    <string name="metres_per_sec">m/sec</string>
+    <string name="invalid_zip_code">Invalid zip code</string>
+    <string name="enter_zip_code">Enter Zip Code</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="weather">Weather</string>
+
+</resources>
